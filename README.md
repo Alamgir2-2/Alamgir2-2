@@ -24,7 +24,7 @@
 <br>
 
 - 🔭 I’m currently working on <kbd>C</kbd> <kbd>Java</kbd> <kbd>Android</kbd>
-- 🌱 I’m currently learning <kbd>C++</kbd>
+- 🌱 I’m currently learning <kbd>PHP</kbd>
 - ✨ I’m currently working on <kbd>Web Design</kbd>
 - 🤔 I’m looking for help with <kbd>Web Development</kbd>
 - 😄 Pronouns: <kbd>He/His</kbd>
