@@ -27,7 +27,7 @@
 - 🌱 I’m currently learning <kbd>PHP</kbd>
 - ✨ I’m currently working on <kbd>Web Design</kbd>
 - 🤔 I’m looking for help with <kbd>Web Development</kbd>
-- 😄 Pronouns: <kbd>He/His</kbd>
+
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alamgir2-2)](https://git.io/streak-stats)
